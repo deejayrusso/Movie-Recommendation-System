@@ -1,1 +1,1 @@
-# surprise_exploration
+# Movie Recommendations
