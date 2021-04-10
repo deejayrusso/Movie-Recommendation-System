@@ -1,2 +1,2 @@
 ### Movie Recommendations
-A comparison between recommendation system algorithms iusing Python Surprise and AzureML Studio
+A comparison between recommendation system algorithms using Python Surprise and AzureML Studio
